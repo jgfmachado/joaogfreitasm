@@ -1,4 +1,4 @@
-<div style="text-align: left;">
+<div style="text-align: justify;">
 
   <h1>Project: Automation</h1>
 
