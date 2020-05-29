@@ -1,6 +1,6 @@
-<div class="one" align ="center">
+<div align ="left">
 
-  <h1>Project: Automation</h1>
+  <h1 align ="center">Project: Automation</h1>
 
   <p>This project provides an extension, so to speak, to several automation frameworks.</p>
   <p>It grants the developer with boilerplates and all the necessary tools,</p>
