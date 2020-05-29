@@ -1,8 +1,8 @@
-package tests;
+package suite;
 
 import org.testng.annotations.Test;
 
-public class Playground {
+public class Testcase {
 	
 	@Test
 	public void misc() {
