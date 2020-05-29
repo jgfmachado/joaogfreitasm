@@ -1,4 +1,4 @@
-<div class="one" text-align = "justify">
+<div style="text-align: left;">
 
   <h1>Project: Automation</h1>
 
