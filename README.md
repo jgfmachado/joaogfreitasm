@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div class="one" align ="center">
 
   <h1>Project: Automation</h1>
 
